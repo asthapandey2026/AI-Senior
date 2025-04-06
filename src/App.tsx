@@ -7,7 +7,7 @@ import WikipediaSearch from './pages/WikipediaSearch';
 import SyllabusAnalyzer from './pages/SyllabusAnalyzer';
 import ResumeUploader from './pages/Resume';
 import BookChat from './pages/Bookchat';
-import SkillExtractor from './pages/JobSearch';
+import SkillExtractor from './pages/jobfinder';
 
 function App() {
   return (
