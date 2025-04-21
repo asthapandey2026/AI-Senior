@@ -39,8 +39,8 @@ React, Vite, Tailwind CSS, Node.js, Express.js, Multer, pdf-parse, Axios, OpenAI
 # 🔽 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-senior.git
-cd ai-senior
+git clone https://github.com/your-username/AI-Senior.git
+cd AI-Senior
 
 ---
 
