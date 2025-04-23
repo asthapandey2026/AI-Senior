@@ -23,6 +23,24 @@ Whether you're preparing for college exams, gearing up for interviews, or trying
 
 React, Vite, Tailwind CSS, Node.js, Express.js, Multer, pdf-parse, Axios, OpenAI API, Gemini API
 
+------
+
+# Project Structure
+
+AI-Senior/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── lib/  
+├── .bolt/
+├── public/
+├── routes/
+├── test/data/
+├── index.html
+├── index.js
+├── server.js
+└── package.json
+
 ------------------
 
 ## 📦 Installation & Setup
